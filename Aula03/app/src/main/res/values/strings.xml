@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Aula2</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="user_name">Name</string>
+    <string name="user_age">Age</string>
+    <string name="user_sex">Gender</string>
+    <string name="user_address">Address</string>
+    <string name="bt_send">Send</string>
+    <string name="title_activity_receiver">ReceiverActivity</string>
+</resources>

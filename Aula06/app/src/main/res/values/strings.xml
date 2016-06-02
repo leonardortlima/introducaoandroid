@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Aula05</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_cadastro">CadastroActivity</string>
+    <string name="title_activity_detalhes">DetalhesActivity</string>
+    <string name="title_activity_list">ListUsuarioActivity</string>
+</resources>
